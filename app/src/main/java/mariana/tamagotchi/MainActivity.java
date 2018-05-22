@@ -13,4 +13,19 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
     }
+
+//    public void color() {
+//        if (limpieza.getPercentComplete() > 0.75) {
+//            limpieza.setForeground(Color.green);
+//        }
+//        if (limpieza.getPercentComplete() < 0.75) {
+//            limpieza.setForeground(Color.yellow);
+//        }
+//        if (limpieza.getPercentComplete() < 0.5) {
+//            limpieza.setForeground(Color.orange);
+//        }
+//        if (limpieza.getPercentComplete() < 0.25) {
+//            limpieza.setForeground(Color.red);
+//        }
+//    }
 }
